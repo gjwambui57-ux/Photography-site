@@ -7,8 +7,8 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.5;
-    color: black;
-    background-color: #CAEDFF;
+    color: white;
+    background-color: #00005C;
 }
 header {
     background-color: black;
@@ -30,12 +30,14 @@ nav a:hover {
     color: black;
 }
 .section-title {
-    background-color: #D8B4F8;
-    margin: 0px 100px 10px 100px;
-    border: indigo solid 3px;
-    border-radius: 5px;
+    margin: 0px;
     text-align: center;
-    font-size: x-large;
+    font-size: xx-large;
 }
-
+.info-text {
+    font-style: italic;
+    background-color: rgba(255, 199, 234, 0.5);
+    margin: 20px 200px 20px 200px;
+    padding: 40px;
+}
 
