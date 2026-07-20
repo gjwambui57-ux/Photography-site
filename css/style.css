@@ -43,5 +43,9 @@ nav a:hover {
 #my-image {
     border-radius: 20px;
 }
-
+.capture {
+    height: 500px;
+    width: 500px;
+    margin: 30px 100px 0px 100px;
+}
 
