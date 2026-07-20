@@ -32,6 +32,7 @@ nav a:hover {
     margin: 0px;
     text-align: center;
     font-size: xx-large;
+    font-weight: bold;
 }
 .info-text {
     font-style: italic;
@@ -43,6 +44,7 @@ nav a:hover {
     text-align: center;
 }
 #my-image {
+    border: black solid 3px;
     border-radius: 20px;
 }
 .capture {
