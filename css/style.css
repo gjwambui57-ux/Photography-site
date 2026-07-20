@@ -2,7 +2,6 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    text-align: center;
 }
 body {
     font-family: 'Times New Roman', Times, serif;
@@ -40,6 +39,9 @@ nav a:hover {
     margin: 20px 200px 20px 200px;
     padding: 40px;
 }
+#about {
+    text-align: center;
+}
 #my-image {
     border-radius: 20px;
 }
@@ -51,4 +53,16 @@ nav a:hover {
 .caption {
     font-size: larger;
 }
+#gallery {
+    text-align: center;
+}
+#contacts {
+    text-align: left;
+    background-color: rgba(80, 38, 167, 0.5);
+    padding-left: 5px;
+}
+#contact-links a {
+    text-decoration: none;
+    color: yellow;
 
+}
