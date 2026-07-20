@@ -26,7 +26,7 @@ nav a{
     transition: all 0.3s ease;
 }
 nav a:hover {
-    background-color: white;
+    background-color:#CAEDFF;
     color: black;
 }
 
