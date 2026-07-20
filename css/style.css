@@ -29,4 +29,13 @@ nav a:hover {
     background-color:#CAEDFF;
     color: black;
 }
+.section-title {
+    background-color: #D8B4F8;
+    margin: 0px 100px 10px 100px;
+    border: indigo solid 3px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: x-large;
+}
+
 
